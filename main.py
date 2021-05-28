@@ -11,7 +11,7 @@ class getPlayingSong:
         self.current_token = ""
         print("getting token")
         getPlayingSong.get_token(self)
-
+    
     def get_token(self):
         self.current_token = spotipy.util.prompt_for_user_token(self.username, self.scope, self.spotipy_id, self.spotipy_secret, self.spotipy_red_url, "save")
         return
