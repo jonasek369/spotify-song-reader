@@ -8,5 +8,5 @@ it will automaticaly write there current song
 
 # requirements
 python,
-spotipy,
+spotipy \n
 pip install spotipy
