@@ -9,4 +9,5 @@ it will automaticaly write there current song
 # requirements
 python
 spotipy
+
 - pip isntall spotipy
