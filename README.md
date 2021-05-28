@@ -7,6 +7,4 @@ just add the txt file currently_playing.txt to your obs and when you start main.
 it will automaticaly write there current song
 
 # requirements
-python,
-spotipy \n
-pip install spotipy
+python and spotipy python package
